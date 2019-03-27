@@ -1,15 +1,15 @@
 body {
   height: 100vh;
-  background-color: #f76767;
+  background-color: white;
   text-align: center;
 }
 
 h1 {
-  color: #ffd567;
+  color: black;
 }
 
 img {
-  width: 300px;
-  height: 300px;
+  width: 180px;
+  height: 180px;
   border-radius: 50%;
 }
